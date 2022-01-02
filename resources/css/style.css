@@ -1,0 +1,36 @@
+body {
+    font-family: Helvetica;
+}
+
+.banner {
+    background-image: url('../images/pattern1.webp');
+}
+
+.banner h1 {
+    color: khaki;
+    font-size: 100px;
+    font-weight: bold;
+    text-align: center;
+}
+
+.title {
+    color: white;
+    font-size: 32px;
+    font-weight: bold;
+}
+
+#brushes h2 {
+    background-color: mediumspringgreen;
+}
+
+#frames h2 {
+    background-color: lightcoral;
+}
+
+#paints h2 {
+    background-color: skyblue;
+}
+
+.blue {
+    color: blue;
+}
